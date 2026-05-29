@@ -1,2 +1,7 @@
-# demo-deoge-s-a
-Demo web para DEOGE S.A. — diseñada por eterlab.
+# DEOGE S.A.
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
